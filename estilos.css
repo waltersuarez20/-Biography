@@ -1,0 +1,18 @@
+.contenedro{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+.izquieda{
+    width: 40%;
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10%;
+
+}
+
+.derecha{
+    font-family: Arial, Helvetica, sans-serif;
+}
